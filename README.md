@@ -28,3 +28,6 @@ This task included refactoring Project 2 using Git and GitHub in a simulated pro
 Project submission included filling out a template with all the Git commands necessary to complete the tasks.
 
 ## [](My Submission)
+
+## Credits
+Many thanks to Udacity and its instructors for their guidance and instruction throughout the program.
