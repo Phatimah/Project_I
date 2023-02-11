@@ -1,17 +1,30 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity Programming for Data Science with Python Nanodegree
 
-### Date created
-Include the date you created this project and README file.
+In this repo, projects and exercises for the Udacity Nanodegree in Python Programming for Data Science are provided.
 
-### Project Title
-Replace the Project Title
+## First Project: Investigate a Relational Database
+*20/10/2022*
 
-### Description
-Describe what your project is about and what it does
+In this project, I used SQL to investigate a database relating to movie rentals. I wrote SQL code to execute SQL queries and provided helpful database-related information. I created visualizations to display the results of my SQL queries after running the queries.
 
-### Files used
-Include the files used
+The student's presentation should consist of four slides, each of which should include (a) an interesting question, (b) a SQL query to help answer that question, (c) a visualization built from the results of those SQL queries, and (d) a brief summary.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+## [https://github.com/Phatimah/Investigate_a_Relational_Database](My Submission)
 
+
+## Second Project: Explore US Bikeshare Data
+*12/12/2022*
+
+In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I wrote code to import the data and answer interesting questions about it by computing descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+
+## [https://github.com/Phatimah/Explore_US_Bikeshare_Data](My Submission)
+
+
+## Second Project: Explore US Bikeshare Data
+*30/01/2023*
+
+This task included refactoring Project 2 using Git and GitHub in a simulated process. 
+
+Project submission included filling out a template with all the Git commands necessary to complete the tasks.
+
+## [](My Submission)
