@@ -9,7 +9,7 @@ In this project, I used SQL to investigate a database relating to movie rentals.
 
 The student's presentation should consist of four slides, each of which should include (a) an interesting question, (b) a SQL query to help answer that question, (c) a visualization built from the results of those SQL queries, and (d) a brief summary.
 
-## [https://github.com/Phatimah/Investigate_a_Relational_Database](My Submission)
+## [My Submission](https://github.com/Phatimah/Investigate_a_Relational_Database)
 
 
 ## Second Project: Explore US Bikeshare Data
@@ -17,7 +17,7 @@ The student's presentation should consist of four slides, each of which should i
 
 In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I wrote code to import the data and answer interesting questions about it by computing descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-## [https://github.com/Phatimah/Explore_US_Bikeshare_Data](My Submission)
+## [My Submission](https://github.com/Phatimah/Explore_US_Bikeshare_Data)
 
 
 ## Second Project: Explore US Bikeshare Data
