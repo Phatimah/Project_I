@@ -2,6 +2,11 @@
 
 In this repo, projects and exercises for the Udacity Nanodegree in Python Programming for Data Science are provided.
 
+### Content:
+- [First Project: Investigate a Relational Database](page.md#specific-section)
+- [Second Project: Explore US Bikeshare Data](page.md#specific-section)
+- [Third Project: Version Control](page.md#specific-section)
+
 ## First Project: Investigate a Relational Database
 *20/10/2022*
 
@@ -20,7 +25,7 @@ In this project, I made use of Python to explore data related to bike share syst
 ## [https://github.com/Phatimah/Explore_US_Bikeshare_Data](My Submission)
 
 
-## Second Project: Explore US Bikeshare Data
+## Third Project: Version Control
 *30/01/2023*
 
 This task included refactoring Project 2 using Git and GitHub in a simulated process. 
