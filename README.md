@@ -2,6 +2,12 @@
 
 In this repo, projects and exercises for the Udacity Nanodegree in Python Programming for Data Science are provided.
 
+
+### Content:
+- [First Project: Investigate a Relational Database](page.md#first-project)
+- [Second Project: Explore US Bikeshare Data](page.md#second-project)
+- [Third Project: Version Control](page.md#third-project)
+
 ## First Project: Investigate a Relational Database
 *20/10/2022*
 
