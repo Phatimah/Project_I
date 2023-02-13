@@ -5,7 +5,7 @@ In this repo, projects and exercises for the Udacity Nanodegree in Python Progra
 
 ### Content:
 - [First Project: Investigate a Relational Database](https://github.com/Phatimah/Udacity-Programming-for-Data-Science-with-Python-Nanodegree/blob/master/README.md#first-project-investigate-a-relational-database)
-- [Second Project: Explore US Bikeshare Data](page.md#second-project)
+- [Second Project: Explore US Bikeshare Data](https://github.com/Phatimah/Udacity-Programming-for-Data-Science-with-Python-Nanodegree/blob/master/README.md#second-project-explore-us-bikeshare-data)
 - [Third Project: Version Control](page.md#third-project)
 
 ## First Project: Investigate a Relational Database
