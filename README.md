@@ -18,7 +18,7 @@ The student's presentation should consist of four slides, each of which should i
  [My Submission](https://github.com/Phatimah/Investigate_a_Relational_Database)
 
 
-## Third Project: Version Control
+## Second Project: Explore US Bikeshare Data
 *12/12/2022*
 
 In this project, I made use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. I wrote code to import the data and answer interesting questions about it by computing descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
@@ -26,7 +26,7 @@ In this project, I made use of Python to explore data related to bike share syst
  [My Submission](https://github.com/Phatimah/Explore_US_Bikeshare_Data)
 
 
-## Second Project: Explore US Bikeshare Data
+## Third Project: Version Control
 *30/01/2023*
 
 This task included refactoring Project 2 using Git and GitHub in a simulated process. 
